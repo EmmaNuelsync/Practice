@@ -2,3 +2,7 @@
     background-color: beige;
 } */
 
+.btn{
+    background-color: aqua;
+    box-shadow: 0 0 10px 0;
+}
